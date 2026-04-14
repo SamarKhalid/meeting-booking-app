@@ -38,3 +38,7 @@ This repository contains the solution for a Flutter interview task to build a sm
 - 1 hour
 
 ## Screenshots
+<img width="898" height="806" alt="image" src="https://github.com/user-attachments/assets/b2efcae1-a78f-4694-b669-72607c30a7c3" />
+<img width="908" height="797" alt="image" src="https://github.com/user-attachments/assets/9903cfdc-4988-4f4d-81e3-169ecb748e80" />
+<img width="899" height="916" alt="image" src="https://github.com/user-attachments/assets/2d5906a7-e631-4be7-9a0e-2468c1632376" />
+<img width="886" height="641" alt="image" src="https://github.com/user-attachments/assets/af9b2b48-bd22-4bb8-8157-15c105765e84" />
